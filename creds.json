@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coral-marker-375414",
+  "private_key_id": "1e7bbd6c2f003c329b260adce24641e808485fb4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDgh8BzeA1VVtWW\nFOomI3/WHBQBSLJzS97XfU8FJwG50Z1af6xiEgk2mOxEciqpDqUSOq2vaWWH4JeB\nGRr2HqnxREdcnOt5Ch9F1jZBrj5xYtGz+sLezSndG4HC3ab5fbdTSGXyIzg61mKO\nrbOe/x+BWNbiGbpB5z0VaPwPNOSqnXt8MR2VwHwbeZ2rYLly1PBCfKSsUlB5por1\nnZfPQgWnZEtB+DjFfG0gXqfZKc1mcpbeOyCjYWu9+OUYQ3DJmSB3qyaWSfHmVQ92\nfj0ZcLadqhh+hP1LrqpNJWMsu9z35YI/w1XAdPyUGPVkwJN2z8uYIRwn62VRuzgf\nt4kNzuDpAgMBAAECggEAHi6pdGwwMKdYVVEw65kMi3HhT43f7SdHCKUf3POyI/I1\nSo/Mkq9VfTkf05CcQvcEwhdQtzp+Cz6p5xECopCbLCNPS3gNoEr3yrnBt+EOJExS\nH7VHAk/Gf6I9tn34vuODJAcgqyTIX4Jno8HeWjJ13/ubATBPrSHCQJFJBttHnNaH\nlWXC8oSe928xct/nACTdBPW7XGaa8oEbyLHc2wVSltRn2FPdzwEY8IQVNnpvev/O\noqSEFjOBFWxzaKociW/FBV1yxD+oUDZ3PNGBvVeCgORQB+0ZA7w8qvZewJVyN0ne\n9NlS4Qx9V0+PLdQlma0N0cpHzuTbDrhtadd6UNYYvQKBgQD7oLu+hUMVofWS+gbL\nmU8onu5KB9MTheCmLsK4g/Onsllz5fBnIelNlolkZglmseXDVC8+HApSSI6kPDAS\nUzKiGegMxlLSdC7ykIVox3x6WA0I0t/WbkshUAdmxzmFjyl8Oq2BULQ5MurCGWFx\nB8EdSf/8Crhs2MSb1Sd5kirVLQKBgQDkbnxMkVOxuHlflB2DLH8VljX4TdSUp8/a\nODsEz/YTgRzd+mT2cDV50g7Ov4ZekhtvcNGuTclsNJdhD4YFhQegG1W0mjdXPg2T\nAahoXxTSb4k7Gzg2YTavkM6TpgGnSr5MKUUO4nOX/lU4IPGV0QvN3++T1dc2PA6D\nwgTdWtYILQKBgQC7XNjPKW1lSz6PXUr4CUTvC0CFsUPTUqmPNFxbhi1EnkGLUhjq\nwk51LnVJY8z2QdrC0gmHZtusn0hPNF3bF0Ype77U3EvJVyeqCEC+X2PpuWyjOFnh\n0ihxOqT4O7oyIAKU9SBCnPRFbwts0fdDcbGy/Gn2o4jly5bCLjqBhHwOVQKBgQDX\nR9kVQBEkeLrKfQijSxgp+/q5HICv6MdW3Y+hpWxATXorKYRlTLLZMEKMTqwQDJqW\nmDjEkMK3m4jfDIY+RXU+SwSmxIBLVEvus61HT/SLrloivjBn745eP5awR89fHm3h\n0TMoJ/rQz/z4fPOxQeZiDB35sZq1njv/qKZ1BtqXsQKBgQCznbWgkdnsBp1UXGHG\n9v7kTT0ZDCLP4yMa63A2cXHNceoY2GTtuQOZ/bc/shOnF1pWlH04nlTZLUYljasL\neSeNcnW4J67XQki9XbOEFgirwy8fld73Il0wAoG9JKx6axO5fbAbQRN6i7VF2H8x\n7qpcRpoZYh25OJu189paMCsoNQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "diego-84@coral-marker-375414.iam.gserviceaccount.com",
+  "client_id": "102921897102564618199",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diego-84%40coral-marker-375414.iam.gserviceaccount.com"
+}
